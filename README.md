@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe Savazi, futuro desenvolvedor de back-end.
+# Olá, eu sou o Felipe Savazi, um futuro desenvolvedor de back-end.
 
 ### Desenvolvedor em: 
 
