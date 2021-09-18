@@ -4,8 +4,8 @@
 
 - <img src="https://cdn.discordapp.com/attachments/884562553773117461/888905411888046110/5848152fcef1014c0b5e4967.png" width="15"> Python
 - <img src="https://cdn.discordapp.com/attachments/884562553773117461/888908971769999400/html5-logo-8.png" width="15"> HTML5
-- <img src="https://cdn.discordapp.com/attachments/884562553773117461/888909786266103888/141-1415372_css3-icon-png.png" widt
-       
+- <img src="https://cdn.discordapp.com/attachments/884562553773117461/888909786266103888/141-1415372_css3-icon-png.png" width="15"> CSS3
+
 ### Projetos ativos: 
 
 - Lion BOT ™
