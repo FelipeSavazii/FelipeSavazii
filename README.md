@@ -10,6 +10,11 @@
 
 - Lion BOT ™
 
+### Meios de contato:
+
+- Discord: Felipe Savazi#9407
+- E-mail: savazifelipee@gmail.com
+
 <!---
 FelipeSavazii/FelipeSavazii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
