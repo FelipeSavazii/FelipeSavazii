@@ -13,7 +13,7 @@
 ### Meios de contato:
 
 - Discord: Felipe Savazi#9407
-- E-mail: savazifelipee@gmail.com
+- E-mail: postmaster@felipesavazi.com
 
 <!---
 FelipeSavazii/FelipeSavazii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
