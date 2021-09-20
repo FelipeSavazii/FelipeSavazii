@@ -8,7 +8,9 @@
 
 ### Projetos ativos: 
 
+- Orizon Studios ©
 - Lion BOT ™
+- Shine Plugins &#8482;
 
 ### Meios de contato:
 
