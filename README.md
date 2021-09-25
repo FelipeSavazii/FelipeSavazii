@@ -17,7 +17,7 @@
 - Discord: Felipe Savazi#9407
 - E-mail: postmaster@felipesavazi.com
 
-### Estatistícas:
+### Estatísticas:
 
 <div>
   <a href="https://github.com/FelipeSavazii">
