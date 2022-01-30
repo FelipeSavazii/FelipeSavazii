@@ -10,12 +10,11 @@
 
 - Orizon Studios ©
 - Lion BOT ™
-- Shine Plugins &#8482;
 
 ### Meios de contato:
 
-- Discord: Felipe Savazi#9407
-- E-mail: postmaster@felipesavazi.com
+- Discord: Felipe Savazi#1234
+- E-mail: dev@felipesavazi.com
 
 ### Estatísticas:
 
