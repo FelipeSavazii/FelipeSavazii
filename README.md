@@ -5,7 +5,7 @@
   
 ## Active projects
 
-### Orizon Studios © and Lion BOT ™
+### Earthcompany © - Lion BOT ™ - Earthpedia ™
 
 ## Means of contact
 
