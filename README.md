@@ -5,7 +5,7 @@
   
 ## Active projects
 
-### Earthcompany © - Lion BOT ™ - Earthpedia ™
+### Earthcompany © - Lion BOT ™ - Earthpedia ™ - HPAY ©
 
 ## Means of contact
 
