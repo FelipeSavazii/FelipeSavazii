@@ -5,7 +5,7 @@
   
 ## Active projects
 
-### Earthcompany © - Lion BOT ™ - Earthpedia ™ - HPAY ©
+### Earthcompany © - Lion BOT ™ - Earthpedia ™ - HPAY © - Oxnis Host ©
 
 ## Means of contact
 
