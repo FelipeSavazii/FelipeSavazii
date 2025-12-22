@@ -26,7 +26,7 @@
 class FelipeSavazi:
     role = "Research Fellow (School Newspaper)"
     learning = ["Next.js", "Generative AI", "Korean Language"]
-    hobbies = ["Chemistry", "Coding", "Gaming"]
+    hobbies = ["Chemistry", "Coding", "Gaming", "Writing"]
     goal = "Study at KAIST/Yonsei & Democratize Science"
 
 ```
